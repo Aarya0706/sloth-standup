@@ -1,0 +1,10 @@
+{
+  "repos": [
+    "C:/CodingProjects/claims-agent",
+    "C:/CodingProjects/leadflow"
+  ],
+  "author": "Aaru",
+  "model_repo": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+  "model_file": "*q4_k_m.gguf",
+  "output_dir": "standups"
+}
