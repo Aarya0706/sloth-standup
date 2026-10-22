@@ -36,7 +36,7 @@ Your standup lands in `standups/YYYY-MM-DD.md` every morning.
 ## Options
 
 ```
-python -m sloth_standup --since "2 days ago" --repo C:/path/to/repo --author Aaru
+python -m sloth_standup --since "2 days ago" --repo C:/path/to/repo --author Aarya Shirsath
 ```
 
 Monday automatically looks back to Friday. `gh` (GitHub CLI), if installed,
