@@ -4,6 +4,8 @@ A lazy, fully local git standup bot. It reads your commits, uncommitted work
 and open PRs, then an open-weight model running inside Python writes a
 two-line standup. No Ollama, no server, no API key, no data leaving your laptop.
 
+![sloth-standup demo](demo.gif)
+
 ## Setup
 
 ```bash
